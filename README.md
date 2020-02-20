@@ -4,3 +4,5 @@ A2C - ActorCritic agent based on work of Tejas Khot, created to deal with lunarl
 
 RNN - Recurrent Neural Network - to read old stuff and write new stuff
 
+
+Many thanks to The AI Core team.
