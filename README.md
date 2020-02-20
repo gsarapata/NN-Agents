@@ -1,1 +1,1 @@
-# smart-owl
+# Collection of Neural Natworks based agents
